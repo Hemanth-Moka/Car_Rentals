@@ -1,7 +1,7 @@
 # CarRental — Fullstack Car Rental Application 
 
 Car rental application built with the MERN stack and a React + Vite frontend. The project supports role‑based authentication (owner / user), owner dashboards for listing and managing cars, image uploads via ImageKit, booking workflows with availability checks, and a responsive UI built using Tailwind CSS.
-......
+.......
 ## Key Features
 - Role-based authentication and authorization (owner / user)
 - Owner dashboard: add, edit, toggle availability, and remove cars
