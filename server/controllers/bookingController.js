@@ -10,7 +10,7 @@ const checkAvailability=async(car,pickupDate,returnDate)=>{
     return bookings.length===0;
 }
 
-// api to check availabality of all cars for given date and location
+
 
 export const checkAvailabilityOfCar=async(req,res)=>{
     try {
